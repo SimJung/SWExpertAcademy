@@ -7,6 +7,12 @@ int main(void)
 	cin.tie(NULL);
 	cout.tie(NULL);
 
+	int tc;
+	cin >> tc;
+	for (int t = 1; t <= tc; t++)
+	{
+
+	}
 
 	return 0;
 }
